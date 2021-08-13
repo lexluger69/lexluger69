@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lexluger69
 - 👀 I’m interested in scripting
-- 🌱 I’m currently learning linus and Python
+- 🌱 I’m currently learning Linux and Python
 - 💞️ I’m looking to collaborate on simplifying code
 - 📫 How to reach me ...
 
